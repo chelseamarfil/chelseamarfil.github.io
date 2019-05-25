@@ -658,6 +658,12 @@ Experience
 /*----------------------------------------
 Contact
 ----------------------------------------*/
+#contact {
+	text-align: center;
+}
+.icons {
+	margin:auto;
+}
 .contact-item {
 	position: relative;
 }
@@ -780,7 +786,7 @@ Footer
 }
 .footer .copy-text {
     margin: 8px 0;
-    font-size: 15px;
+    font-size: 12px;
     text-transform: capitalize;
 }
 
